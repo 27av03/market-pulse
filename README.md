@@ -66,8 +66,8 @@ streamlit run dashboard/app.py
 
 ## Why This Project
 
-I'm a CS + BBA student at Wilfrid Laurier University who sits at the intersection of technology and finance — and I built Market Pulse to reflect exactly that.
+I'm a CS + BBA student at Wilfrid Laurier University who sits at the intersection of technology and finance, and I built Market Pulse to reflect exactly that.
 
-Most student projects demonstrate one thing: that you can code. Market Pulse demonstrates something different — that I understand how data moves through a real system, why each layer exists, and how technical decisions connect to business outcomes. That's the mindset I bring from combining a computer science degree with a business degree.
+Most student projects demonstrate one thing: that you can code. Market Pulse demonstrates something different. It shows that I understand how data moves through a real system, why each layer exists, and how technical decisions connect to business outcomes. That's the mindset I bring from combining a computer science degree with a business degree.
 
-The domain wasn't chosen randomly. Financial data is live, messy, and consequential. The companies I want to work for — in fintech, banking, and data-driven technology — run on pipelines like this one. Building Market Pulse was my way of speaking their language before walking through the door.
+The domain wasn't chosen randomly. Financial data is live, messy, and consequential. The companies I want to work for in fintech, banking, and data-driven technology run on pipelines like this one. Building Market Pulse was my way of speaking their language before walking through the door.
