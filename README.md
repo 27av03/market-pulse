@@ -4,7 +4,7 @@ An end-to-end financial data pipeline that ingests real stock market data, trans
 
 ## Architecture
 
-yfinance API → CSV (raw) → DuckDB → dbt models → Prefect orchestration → Streamlit dashboard
+yfinance API → CSV (raw) → DuckDB → dbt models → Prefect Orchestration → Streamlit Dashboard
 
 ## What It Does
 
