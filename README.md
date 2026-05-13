@@ -66,4 +66,8 @@ streamlit run dashboard/app.py
 
 ## Why This Project
 
-Built to demonstrate end-to-end data engineering skills across the modern data stack. The domain (financial markets) was chosen deliberately — it maps directly to roles at fintech and financial institutions where data pipelines drive real business decisions.
+I'm a CS + BBA student at Wilfrid Laurier University who sits at the intersection of technology and finance — and I built Market Pulse to reflect exactly that.
+
+Most student projects demonstrate one thing: that you can code. Market Pulse demonstrates something different — that I understand how data moves through a real system, why each layer exists, and how technical decisions connect to business outcomes. That's the mindset I bring from combining a computer science degree with a business degree.
+
+The domain wasn't chosen randomly. Financial data is live, messy, and consequential. The companies I want to work for — in fintech, banking, and data-driven technology — run on pipelines like this one. Building Market Pulse was my way of speaking their language before walking through the door.
