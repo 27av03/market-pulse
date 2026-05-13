@@ -1,0 +1,8 @@
+venv/
+data/raw/
+data/market_pulse.db
+__pycache__/
+*.pyc
+.env
+.git/
+logs/
