@@ -30,21 +30,23 @@ yfinance API → CSV (raw) → DuckDB → dbt models → Prefect orchestration �
 
 ## Project Structure
 
+```
 market-pulse/
 ├── ingestion/
-│   ├── fetch_prices.py      # Pull data from Yahoo Finance
-│   └── load_duckdb.py       # Load CSV into DuckDB warehouse
+│   ├── fetch_prices.py         # Pull data from Yahoo Finance
+│   └── load_duckdb.py          # Load CSV into DuckDB warehouse
 ├── transforms/
 │   └── models/
-│       ├── stg_prices.sql          # Staging: clean raw prices
-│       └── fct_daily_metrics.sql   # Facts: moving averages, % change
+│       ├── stg_prices.sql      # Staging: clean raw prices
+│       └── fct_daily_metrics.sql  # Facts: moving averages, % change
 ├── pipeline/
-│   └── flow.py              # Prefect flow (full pipeline)
+│   └── flow.py                 # Prefect flow (full pipeline)
 ├── dashboard/
-│   └── app.py               # Streamlit dashboard
+│   └── app.py                  # Streamlit dashboard
 ├── data/
-│   └── raw/                 # Raw CSV files (gitignored)
+│   └── raw/                    # Raw CSV files (gitignored)
 └── requirements.txt
+```
 
 ## How To Run
 
